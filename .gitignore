@@ -1,0 +1,7 @@
+BKBasicTools.xcodeproj/xcuserdata/
+BKBasicTools.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+BKBasicTools.xcodeproj/project.xcworkspace/xcuserdata/
